@@ -6,4 +6,6 @@ coach_gt/
 submissions/
 out/
 *.zip
+!TranThuHuyen-front.zip
+!TranThuHuyen-fisheye.zip
 .env
